@@ -1,0 +1,10 @@
+.enzo {
+width: 320;
+height: 320;
+border-radius: 14px;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
