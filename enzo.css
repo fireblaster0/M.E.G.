@@ -15,3 +15,10 @@ background: #FFEE8C;
 .title1 {
 text-align: center;
 }
+
+.corporation {
+width: 50 px;
+position: relative;
+top: 40 px;
+left: 100 px;
+}
