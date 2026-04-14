@@ -2,17 +2,15 @@
 width: 320;
 height: 320;
 border-radius: 50 px;
+position: 10 px;
 }
 
 * {
 margin: 0;
 padding: 0;
+background: #FFEE8C;
 }
 
 .title1 {
 text-align: center;
-}
-
-.body {
-background: #FFEE8C;
 }
