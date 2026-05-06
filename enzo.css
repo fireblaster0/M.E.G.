@@ -1,9 +1,9 @@
 .bac {
 width: 350;
 height: 350;
-border-radius: 300 px;
+border-radius: 300px;
 position: absolute;
-right: 50 px;
+right: 80px;
 }
 
 * {
@@ -17,7 +17,7 @@ text-align: center;
 }
 
 .corporation {
-width: 50 px;
+width: 50px;
 position: relative;
 top: 40 px;
 left: 100 px;
